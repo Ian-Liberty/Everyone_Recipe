@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3395" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_email_check.xml" value="0.2" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_email_check_interface.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_home.xml" value="0.2774566473988439" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_password_input.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/frag_myinfo_likerecipe.xml" value="0.3609375" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/frag_myinfo_myrecipe.xml" value="0.3609375" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/fragment_frag_home.xml" value="0.33" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/fragment_frag_myinfo.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/fragment_frag_recipe_registration.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/fragment_frag_search.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/layout/fragment_frag_shopping_basket.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/menu/bottom_menu.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/menu/itemresource.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/dh921/AndroidStudioProjects/Everyone_Recipe/app/src/main/res/menu/my_info_menu.xml" value="0.270703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
